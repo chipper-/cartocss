@@ -1,4 +1,4 @@
-# cartocss
+# CartoCSS
 
 CartoCSS guide made for GIS
 
